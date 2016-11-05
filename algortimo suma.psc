@@ -1,6 +1,7 @@
 Proceso SUMA
 	
 	escribir"SUMA";
+	escribir"________________________";
 	escribir"escribir valor 1:";
 	leer a;
 	escribir"escribir valor 2: ";
